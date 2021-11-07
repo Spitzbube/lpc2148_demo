@@ -2488,4 +2488,10 @@ rtcCTIME2_t;
 #define IAP_RESULT_CRP_ENABLED          (19)
 #define IAP_RESULT_LAST                 (19)
 
+#define VICIntEnable            VIC_IntEnable
+#define VICIntSelect            VIC_IntSelect
+#define VICVectAddr             VIC_VectAddr
+#define VICVectAddr0            VIC_VectAddr0
+#define VICVectCntl0            VIC_VectCntl0
+
 #endif
